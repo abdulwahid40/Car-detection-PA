@@ -14,5 +14,6 @@
 ### Notice:
 - 请下载yolo.h5文件放到model_data目录下
 - 链接: https://pan.baidu.com/s/1sos5oov7V3O0uwOjoUvbuQ 密码: 8kim
+- 需要pip安装一下[Tensorflow](https://www.tensorflow.org/install/install_windows)和[Keras](http://keras-cn.readthedocs.io/en/latest/for_beginners/keras_windows/)
 
 各位老师好, Final Project 有救了! 😀
