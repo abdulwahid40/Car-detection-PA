@@ -11,4 +11,8 @@
 - [深度学习](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 - [卷积神经网络](http://mooc.study.163.com/course/2001281004#/info)
 
+### Notice:
+- 请下载yolo.h5文件放到model_data目录下
+- 链接: https://pan.baidu.com/s/1sos5oov7V3O0uwOjoUvbuQ 密码: 8kim
+
 各位老师好, Final Project 有救了! 😀
